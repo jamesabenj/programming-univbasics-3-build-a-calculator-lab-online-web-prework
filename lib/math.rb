@@ -19,6 +19,7 @@ num1 % num2
 end
 
 def square_root(num)
+  num = Integer
 sqrt(num)
 puts squre_root(num)
 end
